@@ -1,0 +1,1 @@
+This was designed for controlling Atlas in DRC sim within ROS. To use it, plug in the Cyberglove over the USB cable and it will show up as a serial device. I only cared about issuing commands for certain grip profiles, so this code only looks at the movement of a single finger. Feel free to modify this to suit your needs.
